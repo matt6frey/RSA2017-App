@@ -13,7 +13,7 @@ There isn't a whole lot of Front End work on this version, since I am currently 
 
 #www(10).ZIP
 
--Contains the assets for the App. 
+- Contains the assets for the App. 
 
 #RSA2017-debug.apk
 
