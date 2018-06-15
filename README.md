@@ -7,9 +7,9 @@ There isn't a whole lot of Front End work on this version, since I am currently 
 ### Screenshots
 
 <div>
-  <img src="https://github.com/matt6frey/RSA2017-App/docs/home.png" alt="The Home screen for the RSA app.">
-  <img src="https://github.com/matt6frey/RSA2017-App/docs/perf.png" alt="The Performance Survey screen for the RSA app.">
-  <img src="https://github.com/matt6frey/RSA2017-App/docs/estab.png" alt="The Establishment Survey screen for the RSA app.">
+  <img src="https://github.com/matt6frey/RSA2017-App/blob/master/docs/home.png" alt="The Home screen for the RSA app.">
+  <img src="https://github.com/matt6frey/RSA2017-App/blob/master/docs/perf.png" alt="The Performance Survey screen for the RSA app.">
+  <img src="https://github.com/matt6frey/RSA2017-App/blob/master/docs/estab.png" alt="The Establishment Survey screen for the RSA app.">
 </div>
 
 ### Technologies:
