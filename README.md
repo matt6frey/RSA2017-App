@@ -1,8 +1,16 @@
 # RSA2017-App
 
-This is a prototype of the app I am developing for use in the field for regeneration surveyors. It performs a few calculations to aid a surveyor when determining minimum height requirements for acceptable stocking in Establishment surveys, required number of detailed plots and performs age calculations for Performance Surveys. 
+This is a prototype of the app I am developing for use in the field for regeneration surveyors. It performs a few calculations to aid a surveyor when determining minimum height requirements for acceptable stocking in Establishment surveys, required number of detailed plots and performs age calculations for Performance Surveys.
 
 There isn't a whole lot of Front End work on this version, since I am currently rewriting the functionality of the app itself. In the next version there will be better CSS styling, icons and animations.
+
+### Screenshots
+
+<div>
+  <img src="https://github.com/matt6frey/RSA2017-App/docs/home.png" alt="The Home screen for the RSA app.">
+  <img src="https://github.com/matt6frey/RSA2017-App/docs/perf.png" alt="The Performance Survey screen for the RSA app.">
+  <img src="https://github.com/matt6frey/RSA2017-App/docs/estab.png" alt="The Establishment Survey screen for the RSA app.">
+</div>
 
 ### Technologies:
 
@@ -13,7 +21,7 @@ There isn't a whole lot of Front End work on this version, since I am currently 
 
 ### www(10).ZIP
 
-- Contains the assets for the App. 
+- Contains the assets for the App.
 
 ### RSA2017-debug.apk
 
